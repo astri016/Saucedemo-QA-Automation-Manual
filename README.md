@@ -47,7 +47,7 @@ Saucedemo-QA-Automation-Manual/
 
 Dokumen yang berisi tujuan pengujian, ruang lingkup, strategi testing, jenis testing, jadwal, risiko & dependencies.
 📄 **Link Test Plan (PDF):**
-➡️ [Test Plan](./manual-testing/Test%20Plan.pdf)
+➡️ [Test Plan](./manual%20testing/Test%20Plan.pdf)
 
 ---
 
@@ -63,7 +63,7 @@ Dokumentasi test case mencakup:
 ✔ Pengujian berdasarkan tipe user
 
 📑 **Link Test Case (PDF):**
-➡️ [Test Case](./manual-testing/Test%20Case.pdf)
+➡️ [Test Case](./manual%20testing/Test%20Case.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ Berisi temuan bug dari user: `problem_user`, `error_user`, `visual_user`, dll.
 Bug meliputi UI layout, tombol tidak berfungsi, gambar salah, error checkout, dan sorting yang tidak bekerja.
 
 📑 **Link Bug Report (PDF):**
-➡️ [Bug Report](./manual-testing/Bug%20Report.pdf)
+➡️ [Bug Report](./manual%20testing/Bug%20Report.pdf)
 
 ---
 
@@ -132,7 +132,7 @@ Report hasil automation test Cypress bisa dilihat disini:
 ➡️ [Lihat Report PDF](./Test%20Report/Report%20Automation%20Test%20-%20Cypress.pdf)
 
 Folder `automation-testing/cypress/reports` berisi hasil log & report tambahan dari Cypress. Dapat diakses disini:
-➡️ [Cypress Reports Folder](./automation-testing/cypress/reports)
+➡️ [Cypress Reports Folder](./automation%20testing/cypress/reports)
 
 ---
 
@@ -164,4 +164,5 @@ Quality Assurance — Manual & Automation
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
+
 
