@@ -47,6 +47,7 @@ Saucedemo-QA-Automation-Manual/
 
 Dokumen yang berisi tujuan pengujian, ruang lingkup, strategi testing, jenis testing, jadwal, risiko & dependencies.
 📄 **Link Test Plan (PDF):**
+
 ➡️ [Test Plan](./Manual%20Testing/Test%20Plan.pdf)
 
 ---
@@ -140,7 +141,7 @@ Folder `automation-testing/cypress/reports` berisi hasil log & report tambahan d
 
 Video demo menjalankan Cypress Automation.
 🎬 **Link Video:**
-➡️ [Video Demo](./demo-test/video-demo.webm)
+➡️ [Video Demo](./Test%20Report/video-demo.webm)
 
 ---
 
@@ -164,6 +165,7 @@ Quality Assurance — Manual & Automation
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
+
 
 
 
