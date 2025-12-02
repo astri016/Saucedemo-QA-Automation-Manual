@@ -1,6 +1,6 @@
 # **Saucedemo QA Testing**
 
-### **Manual & Automation (Cypress) Project by Astri**
+### **Manual & Automation (Cypress) Project by Astri Yuliana Siahaan**
 
 ---
 
@@ -149,3 +149,4 @@ Quality Assurance — Manual & Automation
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
+
