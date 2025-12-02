@@ -1,6 +1,7 @@
 # **Saucedemo QA Testing**
 
 ### **Manual & Automation (Cypress) Project**
+
 by Astri Yuliana Siahaan
 
 ---
@@ -31,6 +32,9 @@ Saucedemo-QA-Automation-Manual/
 │
 ├── demo-test/
 │   ├── video-demo.webm
+│
+├── Test Report/
+│   ├── Report Automation Test - Cypress.pdf
 │
 └── README.md
 ```
@@ -122,7 +126,17 @@ Pilih browser → pilih spec file → klik *Run*.
 
 ---
 
-# 🎥 **3. Demo Video**
+## 📄 **3. Automation Test Report**
+
+Report hasil automation test Cypress bisa diakses langsung di GitHub:
+➡️ [Lihat Report PDF](./Test%20Report/Report%20Automation%20Test%20-%20Cypress.pdf)
+
+> **Catatan:** Folder `automation-testing/cypress/reports` berisi hasil log & report tambahan dari Cypress. Untuk melihat langsung di GitHub, buka folder:
+> ➡️ [Cypress Reports Folder](./automation-testing/cypress/reports)
+
+---
+
+# 🎥 **4. Demo Video**
 
 Video demo menjalankan Cypress Automation.
 🎬 **Link Video:**
@@ -130,7 +144,7 @@ Video demo menjalankan Cypress Automation.
 
 ---
 
-# 🧰 **4. Tools Used**
+# 🧰 **5. Tools Used**
 
 | Category        | Tools                  |
 | --------------- | ---------------------- |
@@ -150,6 +164,3 @@ Quality Assurance — Manual & Automation
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
-
-
-
