@@ -128,11 +128,11 @@ Pilih browser → pilih spec file → klik *Run*.
 
 ## 📄 **3. Automation Test Report**
 
-Report hasil automation test Cypress bisa diakses langsung di GitHub:
+Report hasil automation test Cypress bisa dilihat disini:
 ➡️ [Lihat Report PDF](./Test%20Report/Report%20Automation%20Test%20-%20Cypress.pdf)
 
-> **Catatan:** Folder `automation-testing/cypress/reports` berisi hasil log & report tambahan dari Cypress. Untuk melihat langsung di GitHub, buka folder:
-> ➡️ [Cypress Reports Folder](./automation-testing/cypress/reports)
+Untuk foldernya `automation-testing/cypress/reports` berisi hasil log & report tambahan dari Cypress. Dapat diakses disini:
+➡️ [Cypress Reports Folder](./automation-testing/cypress/reports)
 
 ---
 
@@ -164,3 +164,4 @@ Quality Assurance — Manual & Automation
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
+
