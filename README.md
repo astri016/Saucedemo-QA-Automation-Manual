@@ -27,8 +27,8 @@ Saucedemo-QA-Automation-Manual/
 │
 ├── manual-testing/
 │   ├── Test Plan.pdf
-│   ├── Test Case.xlsx
-│   ├── Bug Report.xlsx
+│   ├── Test Case.pdf
+│   ├── Bug Report.pdf
 │
 ├── demo-test/
 │   ├── video-demo.webm
@@ -62,8 +62,8 @@ Dokumentasi test case mencakup:
 ✔ Sorting (A-Z, Z-A, Price Low/High)
 ✔ Pengujian berdasarkan tipe user
 
-📑 **Link Test Case (Excel / Google Sheets):**
-➡️ [Test Case](./manual-testing/Test%20Case.xlsx)
+📑 **Link Test Case (PDF):**
+➡️ [Test Case](./manual-testing/Test%20Case.pdf)
 
 ---
 
@@ -72,8 +72,8 @@ Dokumentasi test case mencakup:
 Berisi temuan bug dari user: `problem_user`, `error_user`, `visual_user`, dll.
 Bug meliputi UI layout, tombol tidak berfungsi, gambar salah, error checkout, dan sorting yang tidak bekerja.
 
-📑 **Link Bug Report (Excel / Google Sheets):**
-➡️ [Bug Report](./manual-testing/Bug%20Report.xlsx)
+📑 **Link Bug Report (PDF):**
+➡️ [Bug Report](./manual-testing/Bug%20Report.pdf)
 
 ---
 
@@ -131,7 +131,7 @@ Pilih browser → pilih spec file → klik *Run*.
 Report hasil automation test Cypress bisa dilihat disini:
 ➡️ [Lihat Report PDF](./Test%20Report/Report%20Automation%20Test%20-%20Cypress.pdf)
 
-Untuk foldernya `automation-testing/cypress/reports` berisi hasil log & report tambahan dari Cypress. Dapat diakses disini:
+Folder `automation-testing/cypress/reports` berisi hasil log & report tambahan dari Cypress. Dapat diakses disini:
 ➡️ [Cypress Reports Folder](./automation-testing/cypress/reports)
 
 ---
@@ -148,7 +148,7 @@ Video demo menjalankan Cypress Automation.
 
 | Category        | Tools                  |
 | --------------- | ---------------------- |
-| Manual Testing  | Google Sheets, PDF     |
+| Manual Testing  | PDF                    |
 | Automation      | Cypress                |
 | Version Control | Git, GitHub            |
 | Recording       | Screen Recorder / WebM |
@@ -164,4 +164,3 @@ Quality Assurance — Manual & Automation
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
-
