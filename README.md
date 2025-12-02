@@ -148,7 +148,7 @@ Video demo menjalankan Cypress Automation.
 
 | Category        | Tools                  |
 | --------------- | ---------------------- |
-| Manual Testing  | PDF                    |
+| Manual Testing  | Google Sheet / Excel   |
 | Automation      | Cypress                |
 | Version Control | Git, GitHub            |
 | Recording       | Screen Recorder / WebM |
@@ -164,3 +164,4 @@ Quality Assurance — Manual & Automation
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
+
