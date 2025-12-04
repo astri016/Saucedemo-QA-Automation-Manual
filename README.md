@@ -163,11 +163,12 @@ Video demo menjalankan Cypress Automation.
 # 🌸👩🏻‍💻 **Author**
 
 **Astri Yuliana Siahaan**
-QA enthusiast
+- QA enthusiast
 
 ✨ *Project pribadi ini masih dalam tahap pengembangan. Mohon dimaklumi jika ada kekurangan, dan saya sangat terbuka untuk masukan, saran, maupun kolaborasi.*
 
 ---
+
 
 
 
